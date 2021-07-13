@@ -21,5 +21,11 @@ public void CheckTri_CheckTypeTriangle_Equilateral()
   Triangle testTriangle = new Triangle(2, 2, 2);
   Assert.AreEqual("Equilateral", testTriangle.CheckTri());
 }
+[TestMethod]
+public void CheckTri_CheckTypeTriangle_Scalene()
+{
+  Triangle testTriangle = new Triangle(2, 3, 4);
+  Assert.AreEqual(false, testTriangle.CheckTri());
+}
 }
 }
