@@ -12,8 +12,9 @@ namespace TriangleTracker.Tests
 public void CheckTri_ChecksTypeOfTriangle_Isoceles()
 {
   Triangle testTriangle = new Triangle(3,3,5);
-  Assert.AreEqual("Isoceles", testTriangle.CheckTri());
+  Assert.AreEqual("Isosceles", testTriangle.CheckTri());
 }
 
-   }
+
+}
 }

@@ -3,7 +3,6 @@ C:\Users\Admin\Desktop\triangle-Tracker\TriangleTracker.Tests\obj\Debug\net5.0\T
 C:\Users\Admin\Desktop\triangle-Tracker\TriangleTracker.Tests\obj\Debug\net5.0\TriangleTracker.Tests.AssemblyInfoInputs.cache
 C:\Users\Admin\Desktop\triangle-Tracker\TriangleTracker.Tests\obj\Debug\net5.0\TriangleTracker.Tests.AssemblyInfo.cs
 C:\Users\Admin\Desktop\triangle-Tracker\TriangleTracker.Tests\obj\Debug\net5.0\TriangleTracker.Tests.csproj.CoreCompileInputs.cache
-C:\Users\Admin\Desktop\triangle-Tracker\TriangleTracker.Tests\bin\Debug\net5.0\TriangleTracker.exe
 C:\Users\Admin\Desktop\triangle-Tracker\TriangleTracker.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 C:\Users\Admin\Desktop\triangle-Tracker\TriangleTracker.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 C:\Users\Admin\Desktop\triangle-Tracker\TriangleTracker.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
