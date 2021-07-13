@@ -15,6 +15,11 @@ public void CheckTri_ChecksTypeOfTriangle_Isoceles()
   Assert.AreEqual("Isosceles", testTriangle.CheckTri());
 }
 
-
+[TestMethod]
+public void CheckTri_CheckTypeTriangle_Equilateral()
+{
+  Triangle testTriangle = new Triangle(2, 2, 2);
+  Assert.AreEqual("Equilateral", testTriangle.CheckTri());
+}
 }
 }
